@@ -1,0 +1,98 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.banner {
+    text-align: center;
+    background-color: #d3d3d3;
+    padding: 20px;
+}
+
+.imglogo {
+    width: 200px;
+}
+
+.h1banner {
+    margin: 10px 0;
+    color: black;
+}
+
+.hbanner {
+    margin: 10px 0;
+    color: #69b7eb;
+    font-size: 20px ;
+}
+
+.ingles {
+    background-color: #1a73e8;
+    color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 720px;  
+    text-align: center;
+    border: 10px;
+}
+
+.ingles .imgingles {
+    width: 50px;
+    margin: 0 auto 10px auto; 
+}
+
+.hingles {
+    margin: 0;
+    color: white;
+}
+
+
+.espanhol {
+    color: black;
+    padding: 20px;
+    margin: 20px auto;
+    width: 750px;
+    text-align: center;
+}
+
+.espanhol .imgespanhol {
+    width: 50px;
+    margin: 0 auto 10px auto;  
+}
+
+.hespanha {
+    margin: 0;
+    color: black;
+}
+
+
+
+.frances {
+    background-color: #1a73e8;
+    color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 720px;  
+    text-align: center;
+    border: 10px;
+}
+
+.frances .imgfrances {
+    width: 50px;
+    margin: 0 auto 10px auto; 
+}
+
+.hfrances {
+    margin: 0;
+    color: white;
+}
+
+.final {
+    text-align: center;
+    padding: 20px;
+}
+
+.pfim {
+    font-style: italic;
+    color: #69b7eb;
+    width: 400px;
+    margin: 0 auto;
+}
